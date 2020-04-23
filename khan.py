@@ -56,7 +56,7 @@ logo = """
 \033[1;93m     \___|_|\___/|_| |_|____/|_|   
 \033[1;93m🔥╭╬──────────────────────────────────╬╮🔥
 \033[0;94m  ⚡ ✯ 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝕸𝖗.𝕽𝖆𝖓𝖆 𝕬𝖆𝖍𝖎𝖑   ✬⚡
-\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ Aahil Creations ✬⚡
+\033[0;94m  ⚡ ✯ 𝖄𝖔𝖚𝖙𝖚𝖇𝖊 ✪ TECHNICAL SUFYAN ✬⚡
 \033[0;93m  ⚡ ✯ 𝕴𝖒 𝖓ø𝖙 𝖗𝖊𝖘𝖕𝖔𝖓𝖘𝖎𝖇𝖑𝖊 𝖋𝖔𝖗 𝖆𝖓𝖞 𝖒𝖎𝖘𝖘 𝖚𝖘𝖊 ✬⚡
 \033[1;93m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
@@ -80,8 +80,8 @@ print  """
 \033[1;97m """ 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "khan"
+CorrectPassword = "khan"
 
 loop = 'true'
 while (loop == 'true'):
@@ -94,10 +94,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;96mWrong Password"
-            os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+            os.system('xdg-open https://m.youtube.com/channel/UCKoxMkvX0kdfztguDxxe09w')
     else:
         print "\033[1;96mWrong Username"
-        os.system('xdg-open https://m.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
+        os.system('xdg-open https://m.youtube.com/channel/UCKoxMkvX0kdfztguDxxe09w')
 
 def login():
 	os.system('clear')
